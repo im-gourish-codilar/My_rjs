@@ -1,0 +1,33 @@
+.content-part {
+    background-color: #000;
+}
+
+.under-content-part {
+    color: white;
+    width: auto;
+    text-align: center;
+    padding: 5rem 11rem;
+}
+
+.under-content-part h2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.under-content-part p {
+    margin-top: 1rem;
+    font-size: 0.9rem;
+}
+
+.under-content-part a {
+    color: #63B1E3;
+}
+
+.under-content-part button {
+    background-color: #00ADEF;
+    color: white;
+    margin-top: 1.8rem;
+    height: 2rem;
+    width: 14.2rem;
+    border: 1px solid #00ADEF;
+    font-size: 1rem;
+}

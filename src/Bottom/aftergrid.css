@@ -1,0 +1,11 @@
+.footer-link {
+    margin-left: 1rem;
+}
+
+.under-lower-para-first-para {
+    display: flex;
+    padding: 1rem;
+    width: 45%;
+    white-space: nowrap;
+    color: #ccc;
+}

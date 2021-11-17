@@ -1,0 +1,186 @@
+
+.carousel {
+    position: relative;
+    display: block;
+    animation:ease-in;
+    animation-duration: 80000ms;
+    animation-timing-function: ease;
+    animation-delay: 3000ms;
+    animation-iteration-count: 7;
+    animation-direction: normal;
+    animation-fill-mode:both;
+    animation-play-state: running;
+    animation-name:inherit;
+
+}
+
+.carousel-indicators [data-bs-target] {
+    box-sizing: content-box;
+    flex: 0 1 auto;
+    width: 6px;
+    height: 3px;
+    padding: 0;
+    margin-right: 3px;
+    margin-left: 3px;
+    text-indent: -999px;
+    cursor: pointer;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 0;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    opacity: .5;
+    transition: opacity .6s ease;
+}
+
+.first {
+    position: absolute;
+    right: 40%;
+    bottom: 13.25rem;
+    left: 8%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+    font-size: 13px;
+
+}
+
+.second {
+    position: absolute;
+    right: 60%;
+    bottom: 18.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+
+.third {
+    position: absolute;
+    right: 50%;
+    bottom: 18.25rem;
+    left: 10%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+
+.fourth {
+    position: absolute;
+    right: 60%;
+    bottom: 18.25rem;
+    left: 8%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+
+.fifth {
+    position: absolute;
+    right: 40%;
+    bottom: 18.25rem;
+    left: 8%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+
+
+.sixth {
+    position: absolute;
+    right: 60%;
+    bottom: 18.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: left;
+}
+
+.btn1 {
+    background-color:black    ;
+    text-decoration: white;
+    font-size: 12px;
+    width: 18em;
+    height: 3em;
+    margin-bottom: 3em;
+    padding: 5px;
+}
+.btntxt1{
+    font-size: 15px;
+    color: white;
+}
+.btn2 {
+    background-color:black    ;
+    text-decoration: white;
+    font-size: 12px;
+    width: 18em;
+    height: 3em;
+    margin-bottom: 4em;
+    padding: 5px;
+}
+.btntxt2{
+    font-size: 15px;
+    color: white;
+}
+
+.btn3 {
+    background-color:black    ;
+    text-decoration: white;
+    font-size: 12px;
+    width: 36em;
+    height: 3em;
+    margin-bottom: 2em;
+    padding: 5px;
+}
+.btntxt3{
+    font-size: 15px;
+    color: white;
+}
+
+.btn4 {
+    background-color:black    ;
+    text-decoration: white;
+    font-size: 12px;
+    width: 18em;
+    height: 3em;
+    margin-bottom: 2em;
+    padding: 5px;
+}
+.btntxt4{
+    font-size: 15px;
+    color: white;
+}
+
+.btn5 {
+    background-color:black    ;
+    text-decoration: white;
+    font-size: 12px;
+    width: 18em;
+    height: 3em;
+    margin-bottom: 2em;
+    padding: 5px;
+}
+.btntxt5{
+    font-size: 15px;
+    color: white;
+}
+
+.btn6 {
+    background-color:black    ;
+    text-decoration: white;
+    font-size: 12px;
+    width: 18em;
+    height: 3em;
+    margin-bottom: 2em;
+    padding: 5px;
+}
+.btntxt6{
+    font-size: 15px;
+    color: white;
+}

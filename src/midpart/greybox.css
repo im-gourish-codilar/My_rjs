@@ -1,0 +1,18 @@
+.three-box-list {
+    background-color: #000;
+    text-align: center;
+}
+
+.under-three-box-list {
+    color: white;
+    width: 18rem;
+    height: 9rem;
+    background-color: #1e1d1d;
+    display: inline-block;
+    line-height: 8rem;
+    margin: 0.4rem;
+}
+
+.under-three-box-list:hover {
+    border-bottom: 0.4rem solid #00ADEF;
+}

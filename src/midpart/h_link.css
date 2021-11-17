@@ -1,0 +1,21 @@
+.three-link-menus {
+    background-color: #000;
+    display: inline-block;
+    text-align: center;
+    padding-top: 1.4rem;
+}
+
+.three-link-menus svg {
+    padding-right: 1rem;
+}
+
+.three-link-menus a {
+    padding-left: 1rem;
+    text-decoration: none;
+    list-style: none;
+    color: #fff;
+}
+
+.first-link-active {
+    color: #00ADEF;
+}
