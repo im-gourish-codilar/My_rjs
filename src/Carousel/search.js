@@ -4,7 +4,7 @@ import './search.css';
 export default class Search extends PureComponent {
     render() {
         return (
-            <div className="middle-search-bar">
+            <div id="Find" className="middle-search-bar">
                 <input type="text" placeholder="I am looking for..." />
                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 57.3 76.3" height="1.2142857142857142rem" class="brandhub-icon">
                     <path

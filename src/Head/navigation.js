@@ -35,7 +35,7 @@ export default class Navigation extends PureComponent {
                             <li><a href="#">Sports</a></li>
                             <li><a href="#">Events</a></li>
                             <li><a href="#">Lifestyle</a></li>
-                            <i><a href="Find" className="searchicon">
+                            <i><a href="#Find" className="searchicon">
                                 {Find}
                             </a></i>
                             <i><a className="burger">

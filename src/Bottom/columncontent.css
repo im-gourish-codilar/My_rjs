@@ -5,6 +5,7 @@
 
 .under-four-column-boxes-second-border {
     display: flex;
+    font-family: none;
 }
 
 .under-four-column-box {
@@ -14,7 +15,7 @@
 
 .under-four-column-box hr {
     margin-top: 2rem;
-    border: 1px solid #1e1d1d;
+    border: 1px solid #ffffff;
 }
 
 .box-heading {
@@ -36,7 +37,11 @@
     color: #63B1E3;
     text-decoration: none;
 }
-
+.box-content ul{
+    padding-left:0rem;
+    list-style: none;
+    text-decoration: none;
+}
 .box-content ul li {
     padding-top: 0.4rem;
     list-style: none;

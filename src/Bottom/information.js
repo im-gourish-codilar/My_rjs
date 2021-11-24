@@ -9,7 +9,7 @@ export default class Information extends Component {
                 <div className="lower-section-contact-box">
                     <div className="under-contact-box-heading">
                         Stay informed
-                        <hr />
+                        <hr/>
                     </div>
 
                     <div className="under-contact-box-para">
